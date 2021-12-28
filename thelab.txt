@@ -71,7 +71,7 @@
            +-----------+------------+-------------------------+
            | R01DEC    | 40.1       | Linux/PyDECNet          |
            | VMS01     | 40.10      | OpenVMS 7.3 VAX         |
-           | ????????? | 40.11      | OpenVMS 7.3 VAX         |
+           | EUDIAL    | 40.11      | OpenVMS 7.3 VAX         |
            | VMS02     | 40.12      | OpenVMS 7.3 VAX         |
            | ????????? | 40.20      | RSX11M+                 |	      
            | NT4SRV    | 40.30      | Windows NT4 Server      |
