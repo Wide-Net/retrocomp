@@ -108,6 +108,7 @@
            | VAXY      | 1.170      | OpenVMS 7.3 VAX 4000/60 |
            | ALPHY     | 1.171      | OpenVMS 7.3 AXP DEC3000 |
            | TARDIS    | 1.172      | OpenVMS 8.X AXP PWS     |
+           | R2MIL1    | 1.175      | Linux/PyDECNet/Bridge   |
            | R1PIA1    | 1.179      | Linux/PyDECNet          |
            | R1PIA1    | 40.1       | Linux/PyDECNet          |
            | R1MIL1    | 40.2       | Linux/PyDECNet          |
