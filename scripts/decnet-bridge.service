@@ -1,0 +1,11 @@
+[Unit]
+Description=Retro DECnet Bridge
+After=network.target
+
+[Service]
+PrivateTmp=true
+Type=exec
+ExecStart=/usr/local/sbin/decnet-bridge
+
+[Install]
+WantedBy=multi-user.target

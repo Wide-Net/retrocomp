@@ -1,0 +1,11 @@
+[Unit]
+Description=pyDECNet
+After=network.target
+
+[Service]
+PrivateTmp=true
+Type=exec
+ExecStart=/usr/bin/pydecnet /opt/pydecnet.conf /opt/http.conf
+
+[Install]
+WantedBy=multi-user.target
